@@ -1,0 +1,49 @@
+body{
+    background-image: url(p2x1aylaup551.png);
+    background-repeat: no-repeat;
+}
+.main{
+    width: 1280px;
+    margin: auto;
+    text-align: center;
+}
+img{
+    width: 400px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+.menu{
+    padding: 1px 0;
+}
+ul a{
+    font-size: 20px;
+    color: #483D8B;
+}
+ul a:hover{
+    color: #7B68EE;
+}
+.footer{
+    text-align: center;
+}
+.item{
+    width: 400px;
+    height: 800px;
+    border: 5px dotted #483D8B;
+    text-align: center;
+    color: #7B68EE;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+}
+#a3{
+  font-size:20px;
+}
+p{
+  color: MediumVioletRed;
+}
+
